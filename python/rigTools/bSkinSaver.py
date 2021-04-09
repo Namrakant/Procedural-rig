@@ -10,7 +10,7 @@
 
 =====================================================================
     
-    Note: Updated a bit so that it works with pyside2
+    Note: Updated a bit so that it works with pyside2. This code does not belongs to me at all. You can find the original file at https://www.highend3d.com/maya/script/bskinsaver-for-maya
     Updated by: Namrakant Tamrakar
     Updated on: 2/9/2021
 """
